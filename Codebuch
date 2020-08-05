@@ -3,9 +3,9 @@ Codebuch Stand 2020-08-04
 erstellt von Valerija Vasylevytska (vv010@hdm-stuttgart.de)
 
 Inhalt
-•	Edges.csv (Edgelist)
-•	Nodes.csv (Nodelist)
-•	Codebuch.rm (Codierung der Datensätze)
+•	Edgelist.csv (Edgelist)
+•	Nodelist.csv (Nodelist)
+•	Codebuch (Codierung der Datensätze)
 
 Ursprung und Datenerhebung
 Am 3. Juli 2020 hat der Bundestag den Ausstieg aus dem Kohlestrom bis 2038 beschlossen (Quelle: faz). Die sogenannte "Kohlekommission" arbeitete zuvor mehrere Jahre an der Vorbereitung des Ausstiegs. Im Folgenden wird das Netzwerk der Kohlekommission-Mitglieder analysiert.
